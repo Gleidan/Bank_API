@@ -9,7 +9,7 @@ import javax.xml.crypto.Data;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.sql.SQLException;
-
+//synchro, thread
 public class CreateDataSource {
 
     private static DataSource dataSource;

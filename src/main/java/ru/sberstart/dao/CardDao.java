@@ -10,6 +10,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.UUID;
 
+/*
+annp
+ */
+
 public class CardDao extends AbstractDao<Card> {
 
     public CardDao() {
