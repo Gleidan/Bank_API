@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.sberstart.dao.ClientDaoTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.092 s - in ru.sberstart.dao.ClientDaoTest
